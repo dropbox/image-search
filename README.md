@@ -1,7 +1,7 @@
 Image Search for Dropbox
 ========================
 
-This source package contains the literate haskell source
+This source package contains the Literate Haskell source
 of "Image Search," a hypothetical Dropbox API app.
 
 Steps to run:
