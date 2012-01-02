@@ -1,0 +1,7 @@
+syntax: regexp
+^dist$
+~$
+\.orig$
+^ImageSearch.html$
+^client_session_key.aes$
+^.#
