@@ -1,0 +1,14 @@
+body {
+    font-size: large;
+    max-width: 33em;
+}
+
+p {
+  text-align: justify;
+}
+
+pre.sourceCode {
+    border: 1px solid #b4baea;
+    background-color: #f0f4ff;
+    padding: 8px;
+}

@@ -4,4 +4,4 @@ syntax: regexp
 \.orig$
 ^ImageSearch.html$
 ^client_session_key.aes$
-^.#
+^.\#
